@@ -24,4 +24,4 @@ Adapted from [@alexlouden](https://github.com/alexlouden/)'s [README on Terrafor
 
 ## Acknowledgements
 
-Thanks to [Bruno Cucunato](https://github.com/odanoburu) for the [grammar](https://github.com/odanoburu/conllu-linguist-grammar).
+Thanks to [Bruno Cuconato](https://github.com/odanoburu) for the [grammar](https://github.com/odanoburu/conllu-linguist-grammar).
